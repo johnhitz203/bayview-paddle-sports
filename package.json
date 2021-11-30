@@ -1,0 +1,22 @@
+{
+  "name": "bayview-paddle-sports",
+  "version": "1.0.0",
+  "description": "Web presence for Bayview Paddle Sports",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-johnhitz203:johnhitz203/bayview-paddle-sports.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.4",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.14"
+  }
+}
